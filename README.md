@@ -6,9 +6,7 @@ ev3dev Repositories
 3. Repository Descriptions
 4. How You Can Help
 
-
-1. Introduction
----------------
+## 1. Introduction
 
 This is part of a group of 4 repositories that make up the `ev3dev` Linux distribution for the LEGO MINDSTORMS EV3. Each of the repositories has the same `README.md` file so you can read this one and not miss anything :-)
 
@@ -42,8 +40,7 @@ Debian GNU/Linux 7 on LEGO MINDSTORMS EV3!
 
 How neat is that?!!!
 
-2. Features
------------
+## 2. Features
 
 Features above and beyond the official LEGO kernel include:
 
@@ -67,8 +64,7 @@ When you want to use the official LEGO tools, just shutdown the EV3, unplug the 
 
 This is still an early beta, so it's not as polished as the official LEGO offering, but it's getting better every week as we add support for more of the native EV3 drivers.
 
-3. Repository Descriptions
---------------------------
+## 3. Repository Descriptions
 
 The ev3dev system is kept in 4 repositories, each with a specific purpose. What's cool about this is that you don't need to have a GitHub account unless you want to help develop the project. 
 
@@ -82,8 +78,7 @@ To get started, just look at the Releases tab and grab the latest and greatest e
 
 [`ev3dev-modules`](https://github.com/mindboards/ev3dev-modules) - The source for the `ev3dev` compatible LEGO MINDSTORMS EV3 drivers. You don't need to download this unless you are going to build the modules, or you want to know a bit more about how the drivers work. The pre-compiled module bundles are in the `ev3dev` repository.
 
-4. How You Can Help
--------------------
+## 4. How You Can Help
 
 Building this custom Linux distribution is a lot of work, even on a Linux host system. Because I strongly dislike doing tedious tasks more than once, and I'm a terrible typist, I decided to script a lot of the mudane tasks like building and customizing the rootfs image, and mounting/formatting/populating the microSD card.
 
