@@ -25,6 +25,8 @@ Currently the `ev3dev` distribution includes the following languages:
 - guile
 - ruby
 - python
+- Goggle Go (golang)
+- node.js
 
 The boot screen you'll be greeted with when you log in is:
 
