@@ -14,6 +14,7 @@ Known issues
 * Remote SSH sessions hang on reboot or poweroff.
 * `plymouth` is not working during boot/shutdown.
 * Empty /etc/sudoers file. The correct file is [here](http://sources.debian.net/src/sudo/1.8.9p5-1/debian/sudoers) and file permissions should be `0440`.
+* `systemd-journal` uses 30% of availible memory. Set `Storage=none` in `/etc/systemd/journald.conf` to fix.
 
 Built using
 -----------
