@@ -19,4 +19,5 @@ In the desription of your issue, be sure to include:
 * The output of `lsusb` if the issue is with an USB device like a WiFi dongle.
 * The output of `systemctl status brickman.service -l` if the issue is with the Brick Manager.
 * If a screenshot of the EV3 would be helpful, run `fbgrab <some-name>.png` on the EV3 and include the picture in your comments.
-* If you are posting logs that are more than 5-10 lines long, please use http://pastebin.com or https://gist.github.com or something similar instead of posting long logs in comments.
+
+If you are posting logs that are more than 5-10 lines long, please use http://pastebin.com or https://gist.github.com or something similar instead of posting long logs in comments.
