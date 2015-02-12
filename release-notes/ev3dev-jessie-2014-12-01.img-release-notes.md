@@ -9,6 +9,7 @@ Changes from previous version
 Known issues
 ------------
 * `plymouth` is not working during boot/shutdown.
+* Error when upgrading `dbus` package. See [issue #239](https://github.com/ev3dev/ev3dev/issues/239).
 
 Built using
 -----------
