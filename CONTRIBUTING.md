@@ -16,6 +16,7 @@ In the desription of your issue, be sure to include:
 
 * The image file that you used to flash your SD card (e.g. `ev3dev-wheezy-2014-07-11.img`).
 * Your kernel version (output of `uname -rv`)
+* If you are using a library (ev3dev-lang, python-ev3, ev3dev-c, etc.) please state which library. Most, if not all, of these have their own issues tracker. You may have better luck posting there instead.
 * If the issue is with detection of a sensor or motor: unplug and plug in the device and include the output of `dmsg | tail`/
 * If the issue is with an USB device like a WiFi dongle: include the output of `lsusb`.
 * If the issue is with the Brick Manager (brickman): include the output of `systemctl status brickman.service -l`.
