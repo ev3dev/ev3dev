@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   width="744.09448"
+   height="1052.3622"
+   id="svg4040"
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="ev3devLogo.svg">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1300"
+     inkscape:window-height="724"
+     id="namedview17"
+     showgrid="false"
+     inkscape:snap-bbox="true"
+     inkscape:zoom="0.73152338"
+     inkscape:cx="82.822574"
+     inkscape:cy="331.48718"
+     inkscape:window-x="99"
+     inkscape:window-y="354"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg4040" />
+  <defs
+     id="defs4042" />
+  <metadata
+     id="metadata4045">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <path
+     inkscape:connector-curvature="0"
+     style="fill:#9ba19d;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-miterlimit:3.63636351;stroke-opacity:1;stroke-dasharray:none;opacity:1"
+     id="rect3164-7-2"
+     d="m 74.6875,389.875 c -18.99432,0 -39.38149,7.94398 -52.8125,21.375 C 8.44399,424.68101 0.5,445.06819 0.5,464.0625 l 0,509.09375 c 0,20.39251 6.955321,42.89285 21.375,57.31255 14.419681,14.4196 36.919999,21.4062 57.3125,21.4062 l 291.65625,0 291.65625,0 0,-583.3125 c 0,-20.39251 -6.95532,-42.89282 -21.375,-57.3125 -14.41968,-14.41967 -36.92,-21.375 -57.3125,-21.375 l -509.125,0 z m 0.03125,31.46875 513.5625,0 c 23.67167,0 42.75,19.0471 42.75,42.71875 l 0,556.3125 -556.3125,0 c -23.671665,0 -42.75,-19.0469 -42.75,-42.71875 l 0,-513.59375 c 0,-23.67165 19.078335,-42.71875 42.75,-42.71875 z"
+     inkscape:export-filename="/home/rhempel/projects/movies/ev3dev/shared/inkscape/ev3devVideoWatermark.png"
+     inkscape:export-xdpi="8.1447964"
+     inkscape:export-ydpi="8.1447964" />
+  <path
+     inkscape:connector-curvature="0"
+     style="font-size:64px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#fe8a18;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-miterlimit:3.63636351;stroke-opacity:1;stroke-dasharray:none;font-family:SF Alien Encounters Solid;-inkscape-font-specification:SF Alien Encounters Solid;opacity:1"
+     id="path3010-5-5"
+     d="m 352.92441,614.44554 -42.84886,0 -57.50768,-157.86416 38.33846,0 40.59365,115.69183 40.59366,-115.69183 38.33849,0 -57.50772,157.86416"
+     inkscape:export-filename="/home/rhempel/projects/movies/ev3dev/shared/inkscape/ev3devVideoWatermark.png"
+     inkscape:export-xdpi="8.1447964"
+     inkscape:export-ydpi="8.1447964" />
+  <path
+     inkscape:connector-curvature="0"
+     style="font-size:64px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#fe8a18;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-miterlimit:3.63636351;stroke-opacity:1;stroke-dasharray:none;font-family:SF Alien Encounters Solid;-inkscape-font-specification:SF Alien Encounters Solid;opacity:1"
+     id="path3008-71-88-4-4-0"
+     d="m 89.777188,614.44547 c -6.3146,0 -11.65189,-2.18014 -16.01194,-6.54008 -4.360084,-4.35994 -6.54009,-9.69737 -6.54009,-16.01194 l 0,-112.76006 c 0,-6.31456 2.180006,-11.65163 6.54009,-16.01192 4.36005,-4.35994 9.69734,-6.54009 16.01194,-6.54009 l 135.314032,0 0,31.57317 -124.03801,0 0,31.57247 124.03801,0 0,31.57281 -124.03801,0 0,31.57282 124.03801,0 0,31.57282 -135.314032,0"
+     inkscape:export-filename="/home/rhempel/projects/movies/ev3dev/shared/inkscape/ev3devVideoWatermark.png"
+     inkscape:export-xdpi="8.1447964"
+     inkscape:export-ydpi="8.1447964" />
+  <path
+     inkscape:connector-curvature="0"
+     style="font-size:64px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#fe8a18;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-miterlimit:3.63636351;stroke-opacity:1;stroke-dasharray:none;font-family:SF Alien Encounters Solid;-inkscape-font-specification:SF Alien Encounters Solid;opacity:1"
+     id="path3022-8-2-3-8-3"
+     d="m 376.60412,858.85125 -90.20816,0 0,31.57282 90.20816,0 0,-31.57282 m 0,126.29162 0,-63.14563 -90.20816,0 0,63.14563 -33.82806,0 0,-157.86426 135.31223,0 c 6.31443,0 11.65175,2.18015 16.01191,6.54008 4.35991,4.35976 6.53995,9.69719 6.54009,16.01176 l 0,33.82801 c 0,6.31457 -2.18011,11.652 -6.54009,16.01193 -4.36012,4.35994 -9.69748,6.54009 -16.01191,6.54009 6.31443,0 11.65179,2.18014 16.01191,6.54008 4.35998,4.35994 6.53995,9.69772 6.54009,16.01229 l 0,56.38002 -33.82801,0"
+     inkscape:export-filename="/home/rhempel/projects/movies/ev3dev/shared/inkscape/ev3devVideoWatermark.png"
+     inkscape:export-xdpi="8.1447964"
+     inkscape:export-ydpi="8.1447964" />
+  <path
+     inkscape:connector-curvature="0"
+     style="font-size:64px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#fe8a18;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-miterlimit:3.63636351;stroke-opacity:1;stroke-dasharray:none;font-family:SF Alien Encounters Solid;-inkscape-font-specification:SF Alien Encounters Solid;opacity:1"
+     id="path3024-9-0-9-3-1"
+     d="m 460.46261,985.14287 c -6.3146,0 -11.65189,-2.18014 -16.01194,-6.54008 -4.36008,-4.35994 -6.54009,-9.69737 -6.54009,-16.01193 l 0,-112.76007 c 0,-6.31456 2.18001,-11.65163 6.54009,-16.01175 4.36005,-4.35994 9.69734,-6.54008 16.01194,-6.54008 l 135.3122,0 0,31.57264 -124.03618,0 0,94.71846 90.20812,0 0,-31.57282 -53.56107,0 0,-31.57282 87.38913,0 0,94.71845 -135.3122,0"
+     inkscape:export-filename="/home/rhempel/projects/movies/ev3dev/shared/inkscape/ev3devVideoWatermark.png"
+     inkscape:export-xdpi="8.1447964"
+     inkscape:export-ydpi="8.1447964" />
+  <path
+     inkscape:connector-curvature="0"
+     style="fill:#fe8a18;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3.63636351;stroke-opacity:1;stroke-dasharray:none;opacity:1"
+     id="path3948-1-5-9-3-4"
+     d="m 595.55457,782.88909 a 16.6849,16.684886 0 0 1 -33.3698,0 16.6849,16.684886 0 1 1 33.3698,0 z"
+     inkscape:export-filename="/home/rhempel/projects/movies/ev3dev/shared/inkscape/ev3devVideoWatermark.png"
+     inkscape:export-xdpi="8.1447964"
+     inkscape:export-ydpi="8.1447964" />
+  <path
+     inkscape:connector-curvature="0"
+     style="font-size:64px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#fe8a18;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-miterlimit:3.63636351;stroke-opacity:1;stroke-dasharray:none;font-family:SF Alien Encounters Solid;-inkscape-font-specification:SF Alien Encounters Solid;opacity:1"
+     id="path3008-71-88-4-4-7-7"
+     d="m 573.22277,614.44547 c 6.3146,0 11.6519,-2.18014 16.01195,-6.54008 4.36008,-4.35994 6.54009,-9.69737 6.54009,-16.01194 l 0,-112.76006 c 0,-6.31456 -2.18001,-11.65163 -6.54009,-16.01192 -4.36005,-4.35994 -9.69735,-6.54009 -16.01195,-6.54009 l -135.31398,0 0,31.57317 124.03796,0 0,31.57247 -124.03796,0 0,31.57281 124.03796,0 0,31.57282 -124.03796,0 0,31.57282 135.31398,0"
+     inkscape:export-filename="/home/rhempel/projects/movies/ev3dev/shared/inkscape/ev3devVideoWatermark.png"
+     inkscape:export-xdpi="8.1447964"
+     inkscape:export-ydpi="8.1447964" />
+  <path
+     inkscape:connector-curvature="0"
+     style="font-size:64px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#fe8a18;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-miterlimit:3.63636351;stroke-opacity:1;stroke-dasharray:none;font-family:SF Alien Encounters Solid;-inkscape-font-specification:SF Alien Encounters Solid;opacity:1"
+     id="path3008-71-88-4-4-1-4"
+     d="m 275.11902,799.79422 c -6.31461,0 -11.65189,-2.18014 -16.01194,-6.54015 -4.36008,-4.35993 -6.54009,-9.69733 -6.54009,-16.0119 l 0,-112.76006 c 0,-6.31456 2.18001,-11.65163 6.54009,-16.01193 4.36005,-4.35994 9.69733,-6.54008 16.01194,-6.54008 l 135.31399,0 0,31.57317 -124.03798,0 0,31.57247 124.03798,0 0,31.57282 -124.03798,0 0,31.57281 124.03798,0 0,31.57285 -135.31399,0"
+     inkscape:export-filename="/home/rhempel/projects/movies/ev3dev/shared/inkscape/ev3devVideoWatermark.png"
+     inkscape:export-xdpi="8.1447964"
+     inkscape:export-ydpi="8.1447964" />
+  <path
+     inkscape:connector-curvature="0"
+     style="font-size:64px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#fe8a18;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-miterlimit:3.63636351;stroke-opacity:1;stroke-dasharray:none;font-family:SF Alien Encounters Solid;-inkscape-font-specification:SF Alien Encounters Solid;opacity:1"
+     id="path3010-5-9-4"
+     d="m 538.26709,799.79422 -42.84887,0 -57.50767,-157.86416 38.33845,0 40.59366,115.69183 40.59366,-115.69183 38.33849,0 -57.50772,157.86416"
+     inkscape:export-filename="/home/rhempel/projects/movies/ev3dev/shared/inkscape/ev3devVideoWatermark.png"
+     inkscape:export-xdpi="8.1447964"
+     inkscape:export-ydpi="8.1447964" />
+  <path
+     inkscape:connector-curvature="0"
+     style="font-size:64px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#fe8a18;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-miterlimit:3.63636351;stroke-opacity:1;stroke-dasharray:none;font-family:SF Alien Encounters Solid;-inkscape-font-specification:SF Alien Encounters Solid;opacity:1"
+     id="path3082-3"
+     d="m 158.04998,799.81624 c 13.40732,0 37.92011,-3.43322 50.65398,-15.74658 11.92615,-11.53254 16.40748,-30.27926 16.40748,-47.02024 l 0,-16.18745 0,-16.18702 c 0,-16.741 -4.48133,-35.4874 -16.40748,-47.01989 -12.73387,-12.31344 -37.24666,-15.74695 -50.65398,-15.74695 l -90.846846,0 0,78.95386 0,78.95427 90.846846,0 z m 0,-31.60347 -56.9307,0 0,-47.35076 0,-47.35007 56.9307,0 c 8.92856,3.5e-4 19.47449,1.43417 25.65734,7.48797 6.18285,6.05346 7.5981,15.62714 7.5981,24.00521 l 0,15.85689 0,15.85688 c 0,8.37842 -1.41525,17.9521 -7.5981,24.00591 -6.18285,6.0531 -16.72878,7.48727 -25.65734,7.48797 z"
+     inkscape:export-filename="/home/rhempel/projects/movies/ev3dev/shared/inkscape/ev3devVideoWatermark.png"
+     inkscape:export-xdpi="8.1447964"
+     inkscape:export-ydpi="8.1447964" />
+  <path
+     inkscape:connector-curvature="0"
+     style="font-size:64px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#fe8a18;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-miterlimit:3.63636351;stroke-opacity:1;stroke-dasharray:none;font-family:SF Alien Encounters Solid;-inkscape-font-specification:SF Alien Encounters Solid;opacity:1"
+     id="path3020-1-8-5-8-7"
+     d="m 191.26137,858.85195 -90.20816,0 0,94.71846 90.20816,0 0,-94.71846 m 33.82805,103.73927 c -1.4e-4,6.3142 -2.18018,11.65163 -6.5401,16.01157 -4.36018,4.36029 -9.69751,6.54008 -16.01193,6.54008 l -112.760202,0 c -6.3146,0 -11.65189,-2.17979 -16.01194,-6.54008 -4.360084,-4.35994 -6.54009,-9.69737 -6.54009,-16.01157 l 0,-112.76007 c 0,-6.31457 2.180006,-11.65199 6.54009,-16.01175 4.36005,-4.35994 9.69734,-6.54008 16.01194,-6.54008 l 112.760202,0 c 6.31442,0 11.65175,2.18014 16.01193,6.54008 4.35992,4.35976 6.53996,9.69718 6.5401,16.01175 l 0,112.76007"
+     inkscape:export-filename="/home/rhempel/projects/movies/ev3dev/shared/inkscape/ev3devVideoWatermark.png"
+     inkscape:export-xdpi="8.1447964"
+     inkscape:export-ydpi="8.1447964" />
+</svg>
