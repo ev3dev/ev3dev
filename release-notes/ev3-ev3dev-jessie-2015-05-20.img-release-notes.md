@@ -4,16 +4,16 @@ Release notes for ev3-ev3dev-jessie-2015-05-20.img
 Changes from previous version
 -----------------------------
 
-Image file name now starts with `ev3-` prefix to indicate this is for LEGO MINDSTORMS EV3 hardware.
-Removed packages: ev3dev-base, libnss-winbind.
-Added packages: ev3-config, ev3-systemd, firmware-ev3 (these replace ev3dev-base).
-Fixed Bluetooth not working on first boot.
-Fixed firstboot script running again on first reboot/shutdown, causing long delay.
+* Image file name now starts with `ev3-` prefix to indicate this is for LEGO MINDSTORMS EV3 hardware.
+* Removed packages: ev3dev-base, libnss-winbind.
+* Added packages: ev3-config, ev3-systemd, firmware-ev3 (these replace ev3dev-base).
+* Fixed Bluetooth not working on first boot.
+* Fixed firstboot script running again on first reboot/shutdown, causing long delay.
 
 Known issues
 ------------
 
-None.
+* None.
 
 Built using
 -----------
