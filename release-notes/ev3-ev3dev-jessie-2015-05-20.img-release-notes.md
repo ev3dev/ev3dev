@@ -13,7 +13,7 @@ Changes from previous version
 Known issues
 ------------
 
-* None.
+* EV3/UART sensors do not work. Upgrading the `ev3-systemd` package to version 3 and then rebooting will fix the problem. (Issue [#336](https://github.com/ev3dev/ev3dev/issues/336)).
 
 Built using
 -----------
