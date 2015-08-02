@@ -9,7 +9,9 @@ Changes from previous version
 
 Known issues
 ------------
-
+* LEGO started shipping EV3s with a new Bluetooth chip in late July 2015.
+  If Bluetooth doesn't work, run `sudo apt-get install firmware-ev3` to
+  get the firmware for the new chip.
 
 Built using
 -----------
