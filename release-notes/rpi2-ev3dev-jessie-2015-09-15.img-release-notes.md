@@ -11,7 +11,7 @@ Changes from previous version
 Known issues
 ------------
 
-* None yet...
+* Includes old/broken version of `flash-kernel` package. New version must be installed with `apt-get`.
 
 Built using
 -----------
