@@ -11,7 +11,10 @@ Changes from previous version
 
 Known issues
 ------------
-* None yet...
+* `screen` fails with error about file permissions for `/var/run/screen`. To fix, run:
+
+                sudo chown root:utmp /usr/bin/screen
+                sudo chmod 2755 /usr/bin/screen
 
 Built using
 -----------
