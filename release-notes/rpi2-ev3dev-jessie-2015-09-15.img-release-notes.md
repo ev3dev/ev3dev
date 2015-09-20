@@ -12,6 +12,10 @@ Known issues
 ------------
 
 * Includes old/broken version of `flash-kernel` package. New version must be installed with `apt-get`.
+* `screen` fails with error about file permissions for `/var/run/screen`. To fix, run:
+
+                sudo chown root:utmp /usr/bin/screen
+                sudo chmod 2755 /usr/bin/screen
 
 Built using
 -----------
