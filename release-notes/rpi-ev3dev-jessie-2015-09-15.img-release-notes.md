@@ -11,6 +11,7 @@ Changes from previous version
 Known issues
 ------------
 
+* `/dev/i2c-1` is missing. Run `sudo modprobe i2c-dev` to load the module.
 * Drivers for BrickPi may not start automatically on the first boot. Reboot and it should be OK.
 * `screen` fails with error about file permissions for `/var/run/screen`. To fix, run:
 
