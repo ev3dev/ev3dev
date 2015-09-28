@@ -11,6 +11,7 @@ Changes from previous version
 Known issues
 ------------
 
+* `/dev/i2c-1` is missing. Run `sudo modprobe i2c-dev` to load the module.
 * Includes old/broken version of `flash-kernel` package. New version must be installed with `apt-get`.
 * `screen` fails with error about file permissions for `/var/run/screen`. To fix, run:
 
