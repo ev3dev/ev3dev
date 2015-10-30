@@ -17,6 +17,7 @@ Known issues
 
                 sudo chown root:utmp /usr/bin/screen
                 sudo chmod 2755 /usr/bin/screen
+* There are many other file permission issues as well. This will be fixed in the next release.
 
 Built using
 -----------
