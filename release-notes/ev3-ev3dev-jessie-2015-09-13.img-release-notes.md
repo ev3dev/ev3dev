@@ -15,7 +15,8 @@ Known issues
 
                 sudo chown root:utmp /usr/bin/screen
                 sudo chmod 2755 /usr/bin/screen
-  
+
+* There are many other file permission issues as well. This will be fixed in the next release.  
 * Connecting to Wi-Fi times out after 2 minutes, which is not long enough for complex passwords.
   Upgrading the `ev3dev-connman-config` package will change the timeout to 5 minutes. Note:
   does not take effect until connman is restarted (or reboot).
