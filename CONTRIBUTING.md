@@ -1,3 +1,3 @@
 ## Submitting issues on GitHub
 
-Please see <http://www.ev3dev.org/issues/>.
+Please see <http://www.ev3dev.org/support/>.
