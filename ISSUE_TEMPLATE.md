@@ -26,7 +26,7 @@ Tips:
 * I am using: *PASTE DEVICES HERE*
 
 <!-- Type the name of the image file you used below. -->
-<!-- It should be something like "ev3- ev3dev-jessie-2015-12-30.img "-->
+<!-- It should be something like "ev3-ev3dev-jessie-2015-12-30.img" -->
 * I installed ev3dev using this image file: *IMAGE NAME GOES HERE*
 
 <!-- Run `uname -r` in a terminal and paste the output below. -->
