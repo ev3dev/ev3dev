@@ -1,7 +1,7 @@
 <!--
 Instructions:
 
-If you are reporting a bug, fill out the form below. Additional instructions are indicated by <!--. (You do not need to delete the instructions, they will not appear when you submit the issue.)
+If you are reporting a bug or are having a problem with something not working as expected, fill out the form below. Additional instructions are indicated by <!--. (You do not need to delete the instructions, they will not appear when you submit the issue.)
 
 If you are just asking a question or suggesting a new feature, you do not need to fill out the form below (just delete it).
 
@@ -32,6 +32,11 @@ Tips:
 <!-- Run `uname -r` in a terminal and paste the output below. -->
 * My kernel version is: *KERNEL VERSION GOES HERE*
 
+<!-- Windows, OS X, Linux, Andoroid, iOS, etc. -->
+* My host computer is running: *OS GOES HERE*
+
+<!-- USB, Bluetooth, Wi-Fi -->
+* I am connecting using: *PASTE METHOD HERE*
 
 
 ### About my issue:
