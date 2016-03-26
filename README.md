@@ -20,7 +20,7 @@ This repo just hosts the "meta content" that spans our many codebases and subpro
 - [LEGO device drivers](https://github.com/ev3dev/lego-linux-drivers): Drivers that provide control over LEGO MINDSTORMS devices and related hardware.
 - [Brickman](https://github.com/ev3dev/brickman): Graphical brick manager for ev3dev.
 - [ev3dev website](https://github.com/ev3dev/ev3dev.github.io): The ev3dev website and documentation.
-- [ev3dev-lang language bindings](https://github.com/ev3dev/ev3dev-lang): A centralized collection of libraries for controlling ev3dev functionality from user space code.
+- [ev3dev-lang language bindings](https://github.com/ev3dev/ev3dev-lang): A centralized collection of libraries for programming your ev3dev robots.
 
 ### Need support or found a bug? Read through our [support page](http://www.ev3dev.org/support/) to find the best place to ask.
 
