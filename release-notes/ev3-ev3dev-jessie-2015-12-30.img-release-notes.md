@@ -17,6 +17,11 @@ Known issues
 
 * Ports not listed in device browser - <https://github.com/ev3dev/ev3dev/issues/478>
 * USB connection not possible on OS X 10.11 - <https://github.com/ev3dev/ev3dev/issues/471>
+* `sudo apt-get upgrade` takes a very long time. Part of this is because Debian has done
+  two point releases since this image file was released and many core packages were updated
+  for security fixes. The time due to this can't be helped. However, it can be improved
+  by first upgrading `zram-init` by running `sudo apt-get install zram-init` before
+  `sudo apt-get upgrade` (but after `sudo apt-get update`).
 
 Built using
 -----------
