@@ -40,8 +40,6 @@ Tips:
 
 
 ### About my issue:
-
-
 <!-- Answer the following questions -->
 
 #### What led up to the situation?
