@@ -17,7 +17,7 @@ Tips:
 <!-- Copy and paste all devices from this list that apply. -->
 <!--
     LEGO MINDSTORMS EV3
-    Dexter Industries [BrickPi BrickPi+]
+    Dexter Industries [BrickPi (HW v1.7.3), BrickPi+ (HW v2.8)]
     Mindsensors.com PiStorms
     Fatcatlab EVB
     Rapsberry Pi Model [A, A+, B, B+, 2B, 3B]
