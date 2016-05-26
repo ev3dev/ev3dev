@@ -40,12 +40,6 @@ Tips:
 
 
 ### About my issue:
-<!-- Answer the following questions -->
+<!-- Explain exactly what you were trying to do, what you did,
+and what happened as a result. Provide as much information as you can. -->
 
-#### What led up to the situation?
-
-#### What exactly did you do (or not do) that was effective (or ineffective)?
-
-#### What was the outcome of this action?
-
-#### What outcome did you expect instead?
