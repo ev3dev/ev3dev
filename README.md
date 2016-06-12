@@ -1,4 +1,4 @@
-The ev3dev meta repo
+The ev3dev meta repo [![Join the chat at https://gitter.im/ev3dev/chat](https://badges.gitter.im/ev3dev/chat.svg)](https://gitter.im/ev3dev/chat?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 ====================
 
 This repository doesn't actually have any code. It hosts [SD card image downloads](https://github.com/ev3dev/ev3dev/releases) and the project-wide  [issues tracker](https://github.com/ev3dev/ev3dev/issues).
@@ -9,7 +9,7 @@ Our website hosts docs, guides and tutorials to help you get up-and-running with
 
 ### Need support or found a bug? Read through our [support page](http://www.ev3dev.org/support/) to find the best place to ask.
 
-We have an IRC chat channel as well as our GitHub issues tracker that we use to discuss the ev3dev project and track remaining work. The support page explains how you can utilize these tools most effectively.
+We have a Gitter chat room and an IRC channel as well as our GitHub issues tracker that we use to discuss the ev3dev project and track remaining work. The support page explains how you can utilize these tools most effectively.
 
 ### Want to get started writing your own programs? Look through the [list of available libraries](http://www.ev3dev.org/docs/libraries/).
 
