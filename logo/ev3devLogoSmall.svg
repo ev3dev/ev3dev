@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   width="744.09448"
+   height="1052.3622"
+   id="svg4040"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="ev3devLogo.svg">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1025"
+     id="namedview17"
+     showgrid="true"
+     inkscape:snap-bbox="true"
+     inkscape:zoom="1.0345303"
+     inkscape:cx="266.44331"
+     inkscape:cy="398.55481"
+     inkscape:window-x="0"
+     inkscape:window-y="30"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg4040">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3293" />
+  </sodipodi:namedview>
+  <defs
+     id="defs4042" />
+  <metadata
+     id="metadata4045">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <path
+     inkscape:connector-curvature="0"
+     style="fill:#9ba19d;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:3.63636351;stroke-opacity:1;stroke-dasharray:none"
+     id="rect3164-7-2"
+     d="m 89.191515,396.85037 c -18.299829,0 -37.941582,7.65352 -50.881514,20.59347 -12.939932,12.93993 -20.593466,32.58169 -20.593466,50.88151 l 0,490.47972 c 0,19.6469 6.701014,41.32453 20.593466,55.21703 13.892453,13.8924 35.570093,20.6235 55.216982,20.6235 l 280.992417,0 280.99241,0 0,-561.98479 c 0,-19.64689 -6.70102,-41.32452 -20.59347,-55.21697 -13.89246,-13.89244 -35.57009,-20.59347 -55.21698,-20.59347 l -490.509845,0 z m 0.0301,30.31816 494.785105,0 c 22.80618,0 41.18693,18.35068 41.18693,41.15682 l 0,535.97215 -535.972035,0 c -22.806157,0 -41.186929,-18.35061 -41.186929,-41.15696 l 0,-494.81519 c 0,-22.80614 18.380772,-41.15682 41.186929,-41.15682 z"
+     inkscape:export-filename="/home/rhempel/projects/movies/ev3dev/shared/inkscape/ev3devVideoWatermark.png"
+     inkscape:export-xdpi="8.1447964"
+     inkscape:export-ydpi="8.1447964" />
+  <path
+     inkscape:connector-curvature="0"
+     style="font-size:64px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#fe8a18;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:3.63636351;stroke-opacity:1;stroke-dasharray:none;font-family:SF Alien Encounters Solid;-inkscape-font-specification:SF Alien Encounters Solid"
+     id="path3008-71-88-4-4-0"
+     d="m 159.448,963.77951 c -19.84239,0 -36.61379,-6.85075 -50.31437,-20.55118 -13.700714,-13.70042 -20.550953,-30.47244 -20.550953,-50.315 l 0,-354.33069 c 0,-19.8425 6.850239,-36.6134 20.550953,-50.31493 13.70058,-13.70042 30.47198,-20.5512 50.31437,-20.5512 l 425.19767,0 0,99.21371 -389.76501,0 0,99.2115 389.76501,0 0,99.21258 -389.76501,0 0,99.21259 389.76501,0 0,99.21262 -425.19767,0"
+     inkscape:export-filename="/home/rhempel/projects/movies/ev3dev/shared/inkscape/ev3devVideoWatermark.png"
+     inkscape:export-xdpi="8.1447964"
+     inkscape:export-ydpi="8.1447964" />
+</svg>
