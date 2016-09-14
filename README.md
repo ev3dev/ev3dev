@@ -1,6 +1,10 @@
 The ev3dev meta repo [![Join the chat at https://gitter.im/ev3dev/chat](https://badges.gitter.im/ev3dev/chat.svg)](https://gitter.im/ev3dev/chat?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 ====================
 
+Ev3dev is an operating system that runs on the LEGO MINDSTORMS EV3 and other platforms with compatible motor/sensor hardware. Its goal is to allow you to write code which controls your MINDSTORMS robots in any language you want, with whatever frameworks and libraries you like to use.
+
+Ev3dev is based on Debian Linux, so any software that runs on Linux and can be built for ARM should be able to run on ev3dev. 
+
 This repository doesn't actually have any code. It hosts [SD card image downloads](https://github.com/ev3dev/ev3dev/releases) and the project-wide  [issues tracker](https://github.com/ev3dev/ev3dev/issues).
 
 ### Looking for documentation and tutorials? Check out our [website](http://www.ev3dev.org).
