@@ -17,7 +17,9 @@ Changes from previous version
 
 Known issues
 ------------
-* No known serious issues. This file will be updated if any are found.
+* There are issues with file capabilities. This is a combination of a kernel
+  driver issue and a disk image creation issue. This causes some programs (like
+  `ping`) to not work. This will require flashing a new image to fix.
 
 
 Included Packages
