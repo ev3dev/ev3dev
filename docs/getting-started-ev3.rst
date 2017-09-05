@@ -22,7 +22,7 @@ You will need *all* of the following:
 Communication Requirements
 ==========================
 
-You will need *one* of the following to establish commination to the EV3:
+You will need *one* of the following to establish communication to the EV3:
 
 * The USB cable that comes with the EV3
 * A Bluetooth capable computer
