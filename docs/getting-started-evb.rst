@@ -10,10 +10,12 @@ You will need *all* of the following:
 
 * `FatcatLab EVB <http://fatcatlab.com/product/evb/>`_
 * BeagleBone Black or Green
+* A 9V power source [#]_
 * MicroSDHC memory card [#]_ [#]_
 * Windows, macOS or Linux computer with an Internet connection [#]_
 * SD card reader for your computer
 
+.. [#] The power source can be batteries or an AC/DC adapter.
 .. [#] Look for the SDHC logo on the card. Cards larger than 32GB are not
    supported and will likely have data corruption issues. Some users with
    32GB cards have also reported data

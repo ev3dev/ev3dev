@@ -10,10 +10,13 @@ You will need *all* of the following:
 
 * `Dexter Industries BrickPi, BrickPi+ or BrickPi3 <https://www.dexterindustries.com/brickpi/>`_
 * Raspberry Pi Model B, B+, 2 or 3
+* A 12V power source [#]_
 * A compatible SD or MicroSD memory card [#]_
 * Windows, macOS or Linux computer with an Internet connection [#]_
 * SD card reader for your computer
 
+.. [#] The power source can be batteries or an AC/DC adapter. Powering via USB
+   on the Raspberry Pi will work, but you will not be able to run any motors.
 .. [#] Refer to Raspberry Pi `SD Card FAQ <https://www.raspberrypi.org/help/faqs/#topSdCards>`_
 .. [#] Administrative privileges are needed for installing software and
    flashing the microSD card.
