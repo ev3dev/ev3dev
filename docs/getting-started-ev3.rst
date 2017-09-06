@@ -30,7 +30,7 @@ You will need *one* of the following to establish communication to the EV3:
 * A Bluetooth capable computer
 * A USB Wi-Fi dongle attached to the EV3 [#]_
 
-.. [#] A list of know working Wi-Fi dongles can be found on the
+.. [#] A list of known working Wi-Fi dongles can be found on the
    `wiki <https://github.com/ev3dev/ev3dev/wiki/USB-Wi-Fi-Dongles>`_
 
 

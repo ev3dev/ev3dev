@@ -32,7 +32,7 @@ You will need *one* of the following to establish communication to the EVB:
 * A USB Wi-Fi dongle attached to the BeagleBone [#]_
 * An Ethernet cable
 
-.. [#] A list of know working Wi-Fi dongles can be found on the
+.. [#] A list of known working Wi-Fi dongles can be found on the
    `wiki <https://github.com/ev3dev/ev3dev/wiki/USB-Wi-Fi-Dongles>`_
 
 

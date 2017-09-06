@@ -28,7 +28,7 @@ You will need *one* of the following to establish communication to the PiStorms:
 * The built-in Wi-Fi on Raspberry Pi 3
 * An Ethernet cable
 
-.. [#] A list of know working Wi-Fi dongles can be found on the
+.. [#] A list of known working Wi-Fi dongles can be found on the
    `wiki <https://github.com/ev3dev/ev3dev/wiki/USB-Wi-Fi-Dongles>`_
 
 
