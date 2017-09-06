@@ -26,7 +26,7 @@ Supported Devices
 
   * `FatcatLab's EVB <http://fatcatlab.com/product/evb/>`_
 
-TODO: Link to platform comparison.
+.. todo:: Link to platform comparison.
 
 
 Versions

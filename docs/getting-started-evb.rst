@@ -1,6 +1,6 @@
-========================================
-Getting Started with LEGO MINDSTORMS EV3
-========================================
+==================================
+Getting Started with FatcatLab EVB
+==================================
 
 
 Hardware Requirements
@@ -8,8 +8,9 @@ Hardware Requirements
 
 You will need *all* of the following:
 
-* `LEGO MINDSTORMS EV3 <https://mindstorms.lego.com>`_ intelligent brick
-* MicroSDHC memory card [#]_
+* `FatcatLab EVB <http://fatcatlab.com/product/evb/>`_
+* BeagleBone Black or Green
+* MicroSDHC memory card [#]_ [#]_
 * Windows, macOS or Linux computer with an Internet connection [#]_
 * SD card reader for your computer
 
@@ -17,6 +18,8 @@ You will need *all* of the following:
    supported and will likely have data corruption issues. Some users with
    32GB cards have also reported data
    corruption issues.
+.. [#] It is not possible to use the built-in eMMC on the BeagleBone because of
+   pin conflicts with the EVB cape.
 .. [#] Administrative privileges are needed for installing software and
    flashing the microSD card.
 
@@ -24,11 +27,10 @@ You will need *all* of the following:
 Communication Requirements
 ==========================
 
-You will need *one* of the following to establish communication to the EV3:
+You will need *one* of the following to establish communication to the EVB:
 
-* The USB cable that comes with the EV3
-* A Bluetooth capable computer
-* A USB Wi-Fi dongle attached to the EV3 [#]_
+* A USB Wi-Fi dongle attached to the BeagleBone [#]_
+* An Ethernet cable
 
 .. [#] A list of know working Wi-Fi dongles can be found on the
    `wiki <https://github.com/ev3dev/ev3dev/wiki/USB-Wi-Fi-Dongles>`_
@@ -40,7 +42,7 @@ Installing Ev3dev
 Ev3dev is distributed as a disk image that is flashed to your microSD card.
 
 1. Download and install `Etcher <https://etcher.io/>`_.
-2. Download the latest ev3dev image for LEGO MINDSTORMS EV3 from the
+2. Download the latest ev3dev image for **BeagleBone** from the
    `ev3dev downloads page <http://www.ev3dev.org/downloads>`_.
 
    .. note:: Follow the link on that page for **ev3dev-stretch** snapshot images.
@@ -58,19 +60,14 @@ Ev3dev is distributed as a disk image that is flashed to your microSD card.
 Establishing a Connection
 =========================
 
-**USB**
-
-  Simply connect the USB cable and you are good to go.
-
-  .. todo:: It's currently not this simple. Some manual configuration is required.
-
-**Bluetooth**
-
-  .. todo:: Link to BrickMan docs on how to pair with Bluetooth.
-
 **Wi-Fi**
 
   .. todo:: Link to BrickMan docs on how to setup Wi-Fi.
+
+**Wired Ethernet**
+
+  Connect an Ethernet cable from your Raspberry Pi to your router or network
+  switch.
 
 
 Setting Up Visual Studio Code

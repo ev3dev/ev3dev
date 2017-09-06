@@ -1,6 +1,6 @@
-========================================
-Getting Started with LEGO MINDSTORMS EV3
-========================================
+=========================================
+Getting Started with Mindsensors PiStorms
+=========================================
 
 
 Hardware Requirements
@@ -8,15 +8,13 @@ Hardware Requirements
 
 You will need *all* of the following:
 
-* `LEGO MINDSTORMS EV3 <https://mindstorms.lego.com>`_ intelligent brick
-* MicroSDHC memory card [#]_
+* `Mindsensors PiStorms-v2 <http://www.mindsensors.com/stem-with-robotics/13-pistorms-v2-base-kit-raspberry-pi-brain-for-lego-robot>`_
+* Raspberry Pi Model B, B+, 2 or 3
+* A compatible SD or MicroSD memory card [#]_
 * Windows, macOS or Linux computer with an Internet connection [#]_
 * SD card reader for your computer
 
-.. [#] Look for the SDHC logo on the card. Cards larger than 32GB are not
-   supported and will likely have data corruption issues. Some users with
-   32GB cards have also reported data
-   corruption issues.
+.. [#] Refer to Raspberry Pi `SD Card FAQ <https://www.raspberrypi.org/help/faqs/#topSdCards>`_
 .. [#] Administrative privileges are needed for installing software and
    flashing the microSD card.
 
@@ -24,11 +22,11 @@ You will need *all* of the following:
 Communication Requirements
 ==========================
 
-You will need *one* of the following to establish communication to the EV3:
+You will need *one* of the following to establish communication to the PiStorms:
 
-* The USB cable that comes with the EV3
-* A Bluetooth capable computer
-* A USB Wi-Fi dongle attached to the EV3 [#]_
+* A USB Wi-Fi dongle attached to the Raspberry Pi [#]_
+* The built-in Wi-Fi on Raspberry Pi 3
+* An Ethernet cable
 
 .. [#] A list of know working Wi-Fi dongles can be found on the
    `wiki <https://github.com/ev3dev/ev3dev/wiki/USB-Wi-Fi-Dongles>`_
@@ -40,7 +38,7 @@ Installing Ev3dev
 Ev3dev is distributed as a disk image that is flashed to your microSD card.
 
 1. Download and install `Etcher <https://etcher.io/>`_.
-2. Download the latest ev3dev image for LEGO MINDSTORMS EV3 from the
+2. Download the latest ev3dev image for **Raspberry Pi** from the
    `ev3dev downloads page <http://www.ev3dev.org/downloads>`_.
 
    .. note:: Follow the link on that page for **ev3dev-stretch** snapshot images.
@@ -49,28 +47,33 @@ Ev3dev is distributed as a disk image that is flashed to your microSD card.
 
    .. todo:: Link to Etcher instruction page here
 
-4. Put the microSD card in the EV3 and turn it on.
+4. When the flashing is complete, open the ``EV3DEV_BOOT`` drive of the SD card
+   on your computer.
 
-.. tip:: `Create a pull tab <http://botbench.com/blog/2013/10/29/ev3-adding-a-pull-tab-to-your-micro-sd-card/>`_
-   to make the microSD card easy to remove.
+   .. tip:: You may need to remove the SD card and plug it back in to the computer
+      before you see the ``EV3DEV_BOOT`` drive.
+
+5. Open the ``config.txt`` file and follow the instructions. There is a line
+   that needs to be edited to enable PiStorms.
+
+6. Save the changes to ``config.txt`` and close the text editor.
+
+7. Safely eject the SD card from your computer.
+
+8. Put the SD card in the Raspberry Pi and turn it on.
 
 
 Establishing a Connection
 =========================
 
-**USB**
-
-  Simply connect the USB cable and you are good to go.
-
-  .. todo:: It's currently not this simple. Some manual configuration is required.
-
-**Bluetooth**
-
-  .. todo:: Link to BrickMan docs on how to pair with Bluetooth.
-
 **Wi-Fi**
 
   .. todo:: Link to BrickMan docs on how to setup Wi-Fi.
+
+**Wired Ethernet**
+
+  Connect an Ethernet cable from your Raspberry Pi to your router or network
+  switch.
 
 
 Setting Up Visual Studio Code
