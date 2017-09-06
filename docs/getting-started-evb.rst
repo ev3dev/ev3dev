@@ -50,7 +50,22 @@ Ev3dev is distributed as a disk image that is flashed to your microSD card.
 3. Run Etcher and flash the image to the microSD card. :doc:`Click here </using-etcher>`
    if you need detailed instructions on using Etcher.
 
-4. Put the microSD card in the EV3 and turn it on.
+4. When the flashing is complete, open the ``EV3DEV_BOOT`` drive of the SD card
+   on your computer.
+
+   .. tip:: You may need to remove the microSD card and plug it back in to the computer
+      before you see the ``EV3DEV_BOOT`` drive.
+
+5. Open the ``uEnv.txt`` file and follow the instructions. You will need to edit
+   a line to enable the EVB cape::
+
+       cape=evb
+
+6. Save the changes to ``uEnv.txt`` and close the text editor.
+
+7. Safely eject the microSD card from your computer.
+
+8. Put the microSD card in the BeagleBone and turn it on.
 
 .. tip:: `Create a pull tab <http://botbench.com/blog/2013/10/29/ev3-adding-a-pull-tab-to-your-micro-sd-card/>`_
    to make the microSD card easy to remove.
