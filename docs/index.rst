@@ -56,3 +56,8 @@ For **ev3dev-stretch**, pick the getting started guide based on your device.
   getting-started-brickpi
   getting-started-pistorms
   getting-started-evb
+
+.. toctree::
+  :hidden:
+
+  using-etcher
