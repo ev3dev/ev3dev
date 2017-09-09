@@ -61,8 +61,6 @@ Establishing a Connection
 
   Simply connect the USB cable and you are good to go.
 
-  .. todo:: It's currently not this simple. Some manual configuration is required.
-
 **Bluetooth**
 
   .. todo:: Link to BrickMan docs on how to pair with Bluetooth.
