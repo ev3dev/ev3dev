@@ -61,3 +61,11 @@ For **ev3dev-stretch**, pick the getting started guide based on your device.
   :hidden:
 
   using-etcher
+
+
+Additional Documentation
+========================
+
+The following are links to documentation for various ev3dev sub-projects.
+
+* `Kernel hardware drivers <http://docs.ev3dev.org/projects/lego-linux-drivers/en/ev3dev-stretch/>`
