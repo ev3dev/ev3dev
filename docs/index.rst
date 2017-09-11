@@ -14,9 +14,9 @@ and BeagleBone.
 Supported Devices
 =================
 
-* `LEGO MINDSTORMS EV3 <https://mindstorms.lego.com>`_
+* `LEGO MINDSTORMS EV3 <http://mindstorms.lego.com>`_
 
-* `Rapsberry Pi <https://raspberrypi.org>`_ with one of the following:
+* `Raspberry Pi <https://raspberrypi.org>`_ with one of the following:
 
   * `Dexter Industries BrickPi, BrickPi+ or BrickPi3 <https://www.dexterindustries.com/brickpi/>`_
 
@@ -45,7 +45,7 @@ Where to Start
 ==============
 
 For **ev3dev-jessie**, `getting started instructions and additional documentation
-are on the main ev3dev.org website <http://www.ev3dev.org/getting-started>`_.
+are on the main ev3dev.org website <http://www.ev3dev.org/docs/getting-started/>`_.
 
 For **ev3dev-stretch**, pick the getting started guide based on your device.
 
