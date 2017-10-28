@@ -1,6 +1,6 @@
-==================================
-Getting Started with FatcatLab EVB
-==================================
+=========================================
+Getting Started with Mindsensors PiStorms
+=========================================
 
 
 Hardware Requirements
@@ -8,20 +8,15 @@ Hardware Requirements
 
 You will need *all* of the following:
 
-* `FatcatLab EVB <http://fatcatlab.com/product/evb/>`_
-* BeagleBone Black or Green
-* A 9V power source [#]_
-* MicroSDHC memory card [#]_ [#]_
+* `Mindsensors PiStorms-v2 <http://www.mindsensors.com/stem-with-robotics/13-pistorms-v2-base-kit-raspberry-pi-brain-for-lego-robot>`_
+* Raspberry Pi Model B, B+, 2 or 3
+* A 9V power source
+* A compatible SD or MicroSD memory card [#]_
 * Windows, macOS or Linux computer with an Internet connection [#]_
 * SD card reader for your computer
 
-.. [#] The power source can be batteries or an AC/DC adapter.
-.. [#] Look for the SDHC logo on the card. Cards larger than 32GB are not
-   supported and will likely have data corruption issues. Some users with
-   32GB cards have also reported data
-   corruption issues.
-.. [#] It is not possible to use the built-in eMMC on the BeagleBone because of
-   pin conflicts with the EVB cape.
+.. [#] The power source can be batteries or an AD/DC adapter.
+.. [#] Refer to Raspberry Pi `SD Card FAQ <https://www.raspberrypi.org/help/faqs/#topSdCards>`_
 .. [#] Administrative privileges are needed for installing software and
    flashing the microSD card.
 
@@ -29,9 +24,10 @@ You will need *all* of the following:
 Communication Requirements
 ==========================
 
-You will need *one* of the following to establish communication to the EVB:
+You will need *one* of the following to establish communication to the PiStorms:
 
-* A USB Wi-Fi dongle attached to the BeagleBone [#]_
+* A USB Wi-Fi dongle attached to the Raspberry Pi [#]_
+* The built-in Wi-Fi on Raspberry Pi 3
 * An Ethernet cable
 
 .. [#] A list of known working Wi-Fi dongles can be found on the
@@ -44,33 +40,28 @@ Installing Ev3dev
 Ev3dev is distributed as a disk image that is flashed to your microSD card.
 
 1. Download and install `Etcher <https://etcher.io/>`_.
-2. Download the latest ev3dev image for **BeagleBone** from the
+2. Download the latest ev3dev image for **Raspberry Pi** from the
    `ev3dev downloads page <http://www.ev3dev.org/downloads>`_.
 
    .. note:: Follow the link on that page for **ev3dev-stretch** snapshot images.
 
-3. Run Etcher and flash the image to the microSD card. :doc:`Click here </using-etcher>`
+3. Run Etcher and flash the image to the microSD card. :doc:`Click here <using-etcher>`
    if you need detailed instructions on using Etcher.
 
 4. When the flashing is complete, open the ``EV3DEV_BOOT`` drive of the SD card
    on your computer.
 
-   .. tip:: You may need to remove the microSD card and plug it back in to the computer
+   .. tip:: You may need to remove the SD card and plug it back in to the computer
       before you see the ``EV3DEV_BOOT`` drive.
 
-5. Open the ``uEnv.txt`` file and follow the instructions. You will need to edit
-   a line to enable the EVB cape::
+5. Open the ``config.txt`` file and follow the instructions. There is a line
+   that needs to be edited to enable PiStorms.
 
-       cape=evb
+6. Save the changes to ``config.txt`` and close the text editor.
 
-6. Save the changes to ``uEnv.txt`` and close the text editor.
+7. Safely eject the SD card from your computer.
 
-7. Safely eject the microSD card from your computer.
-
-8. Put the microSD card in the BeagleBone and turn it on.
-
-.. tip:: `Create a pull tab <http://botbench.com/blog/2013/10/29/ev3-adding-a-pull-tab-to-your-micro-sd-card/>`_
-   to make the microSD card easy to remove.
+8. Put the SD card in the Raspberry Pi and turn it on.
 
 
 Establishing a Connection

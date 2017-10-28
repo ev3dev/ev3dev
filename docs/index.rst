@@ -26,7 +26,13 @@ Supported Devices
 
   * `FatcatLab's EVB <http://fatcatlab.com/product/evb/>`_
 
-.. todo:: Link to platform comparison.
+Follow the links below for a side-by-side comparison of supported hardware
+devices as well as detailed ev3dev-specific information on each device.
+
+.. toctree::
+    :maxdepth: 2
+
+    platforms/index
 
 
 Versions
@@ -50,17 +56,14 @@ are on the main ev3dev.org website <http://www.ev3dev.org/docs/getting-started/>
 For **ev3dev-stretch**, pick the getting started guide based on your device.
 
 .. toctree::
-  :maxdepth: 1
-
-  getting-started-ev3
-  getting-started-brickpi
-  getting-started-pistorms
-  getting-started-evb
-
-.. toctree::
   :hidden:
 
-  using-etcher
+  getting-started/index
+
+* :doc:`getting-started/ev3`
+* :doc:`getting-started/brickpi`
+* :doc:`getting-started/pistorms`
+* :doc:`getting-started/evb`
 
 
 Additional Documentation

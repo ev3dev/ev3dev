@@ -45,7 +45,7 @@ Ev3dev is distributed as a disk image that is flashed to your microSD card.
 
    .. note:: Follow the link on that page for **ev3dev-stretch** snapshot images.
 
-3. Run Etcher and flash the image to the microSD card. :doc:`Click here </using-etcher>`
+3. Run Etcher and flash the image to the microSD card. :doc:`Click here <using-etcher>`
    if you need detailed instructions on using Etcher.
 
 4. Put the microSD card in the EV3 and turn it on.
