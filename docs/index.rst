@@ -69,6 +69,13 @@ For **ev3dev-stretch**, pick the getting started guide based on your device.
 Additional Documentation
 ========================
 
-The following are links to documentation for various ev3dev sub-projects.
+General information on programming using ev3dev:
+
+.. toctree::
+  :maxdepth: 2
+
+  programming/index
+
+The following are links to documentation for various ev3dev sub-projects:
 
 * `Kernel hardware drivers <http://docs.ev3dev.org/projects/lego-linux-drivers/en/ev3dev-stretch/>`_
