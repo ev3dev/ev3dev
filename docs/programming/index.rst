@@ -7,3 +7,4 @@ Programming
 
     basics
     languages
+    ides

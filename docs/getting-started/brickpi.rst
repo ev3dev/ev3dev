@@ -75,20 +75,8 @@ Establishing a Connection
      this by running ``ping ev3dev.local`` in a terminal window on your computer.
 
 
-Setting Up Visual Studio Code
-=============================
+Setting Up a Development Environment
+====================================
 
-Visual Studio Code is the officially supported programming environment for ev3dev.
-We have developed an extension that is used to interact with the EV3 through
-VS Code.
-
-.. todo:: May want a link to detailed instructions on installing VS Code and git.
-
-We have "hello world!" tutorials for several programming languages. Follow one
-of the links below for step-by-step instructions:
-
-* `Hello Python! <https://github.com/ev3dev/vscode-hello-python#readme>`_
-* `Hello Go(lang)! <https://github.com/ev3dev/vscode-hello-go#readme>`_
-
-.. note:: It is possible to use ev3dev without Visual Studio Code, but it
-   is up to you to figure out how to do it.
+Programming tools are the same no matter which ev3dev device you are using, so
+continue :doc:`here </programming/ides>`.
