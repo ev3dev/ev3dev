@@ -5,6 +5,6 @@ Programming
 .. toctree::
     :maxdepth: 2
 
-    basics
+    fundamentals
     languages
     ides

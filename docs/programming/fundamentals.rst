@@ -1,6 +1,6 @@
-======
-Basics
-======
+============
+Fundamentals
+============
 
 The following information applies to all programming languages. These are the
 basic things you need to know to create and run programs on ev3dev.

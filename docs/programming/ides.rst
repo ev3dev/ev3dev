@@ -1,6 +1,6 @@
-==========================================
-Integrated Development Environments (IDEs)
-==========================================
+========================
+Development Environments
+========================
 
 `Visual Studio Code <vscode>`_ + the `ev3dev browser extension <ev3dev-browser>`_
 is the officially supported programming environment for ev3dev. There are plenty
