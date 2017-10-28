@@ -40,7 +40,7 @@ On-Device Options
 It is possible to write programs directly on ev3dev devices without any external
 tools needed. For example, ev3dev ships with two text editors, `nano`_ and `vim`_.
 
-Either use a remote SSH terminal or plug in a keyboard and press ``ALT``\ +\ ``CTRL``\ +\ ``F6``
+Either use a remote SSH terminal or plug in a keyboard and press :kbd:`Alt`\ +\ :kbd:`Ctrl`\ +\ :kbd:`F6`
 to get a terminal on the device, then run ``nano my.file`` to start editing a file.
 
 .. _nano: https://manpages.debian.org/stretch/nano/nano.1.en.html
