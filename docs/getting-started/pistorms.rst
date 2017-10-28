@@ -10,14 +10,14 @@ You will need *all* of the following:
 
 * `Mindsensors PiStorms-v2 <http://www.mindsensors.com/stem-with-robotics/13-pistorms-v2-base-kit-raspberry-pi-brain-for-lego-robot>`_
 * Raspberry Pi Model B, B+, 2 or 3
-* A 9V power source
-* A compatible SD or MicroSD memory card [#]_
-* Windows, macOS or Linux computer with an Internet connection [#]_
+* A 9V power source [#power-source]_
+* A compatible SD or MicroSD memory card [#sd-card]_
+* Windows, macOS or Linux computer with an Internet connection [#host-computer]_
 * SD card reader for your computer
 
-.. [#] The power source can be batteries or an AD/DC adapter.
-.. [#] Refer to Raspberry Pi `SD Card FAQ <https://www.raspberrypi.org/help/faqs/#topSdCards>`_
-.. [#] Administrative privileges are needed for installing software and
+.. [#power-source] The power source can be batteries or an AD/DC adapter.
+.. [#sd-card] Refer to Raspberry Pi `SD Card FAQ <https://www.raspberrypi.org/help/faqs/#topSdCards>`_
+.. [#host-computer] Administrative privileges are needed for installing software and
    flashing the microSD card.
 
 
@@ -26,11 +26,11 @@ Communication Requirements
 
 You will need *one* of the following to establish communication to the PiStorms:
 
-* A USB Wi-Fi dongle attached to the Raspberry Pi [#]_
+* A USB Wi-Fi dongle attached to the Raspberry Pi [#wifi-dongle]_
 * The built-in Wi-Fi on Raspberry Pi 3
 * An Ethernet cable
 
-.. [#] A list of known working Wi-Fi dongles can be found on the
+.. [#wifi-dongle] A list of known working Wi-Fi dongles can be found on the
    `wiki <https://github.com/ev3dev/ev3dev/wiki/USB-Wi-Fi-Dongles>`_
 
 

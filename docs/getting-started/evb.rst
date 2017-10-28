@@ -10,19 +10,19 @@ You will need *all* of the following:
 
 * `FatcatLab EVB <http://fatcatlab.com/product/evb/>`_
 * BeagleBone Black or Green
-* A 9V power source [#]_
-* MicroSDHC memory card [#]_ [#]_
-* Windows, macOS or Linux computer with an Internet connection [#]_
+* A 9V power source [#power-source]_
+* MicroSDHC memory card [#sd-card]_ [#emmc]_
+* Windows, macOS or Linux computer with an Internet connection [#host-computer]_
 * SD card reader for your computer
 
-.. [#] The power source can be batteries or an AC/DC adapter.
-.. [#] Look for the SDHC logo on the card. Cards larger than 32GB are not
+.. [#power-source] The power source can be batteries or an AC/DC adapter.
+.. [#sd-card] Look for the SDHC logo on the card. Cards larger than 32GB are not
    supported and will likely have data corruption issues. Some users with
    32GB cards have also reported data
    corruption issues.
-.. [#] It is not possible to use the built-in eMMC on the BeagleBone because of
+.. [#emmc] It is not possible to use the built-in eMMC on the BeagleBone because of
    pin conflicts with the EVB cape.
-.. [#] Administrative privileges are needed for installing software and
+.. [#host-computer] Administrative privileges are needed for installing software and
    flashing the microSD card.
 
 
@@ -31,10 +31,10 @@ Communication Requirements
 
 You will need *one* of the following to establish communication to the EVB:
 
-* A USB Wi-Fi dongle attached to the BeagleBone [#]_
+* A USB Wi-Fi dongle attached to the BeagleBone [#wifi-dongle]_
 * An Ethernet cable
 
-.. [#] A list of known working Wi-Fi dongles can be found on the
+.. [#wifi-dongle] A list of known working Wi-Fi dongles can be found on the
    `wiki <https://github.com/ev3dev/ev3dev/wiki/USB-Wi-Fi-Dongles>`_
 
 

@@ -9,15 +9,15 @@ Hardware Requirements
 You will need *all* of the following:
 
 * `LEGO MINDSTORMS EV3 <https://mindstorms.lego.com>`_ intelligent brick
-* MicroSDHC memory card [#]_
-* Windows, macOS or Linux computer with an Internet connection [#]_
+* MicroSDHC memory card [#sd-card]_
+* Windows, macOS or Linux computer with an Internet connection [#host-computer]_
 * SD card reader for your computer
 
-.. [#] Look for the SDHC logo on the card. Cards larger than 32GB are not
+.. [#sd-card] Look for the SDHC logo on the card. Cards larger than 32GB are not
    supported and will likely have data corruption issues. Some users with
    32GB cards have also reported data
    corruption issues.
-.. [#] Administrative privileges are needed for installing software and
+.. [#host-computer] Administrative privileges are needed for installing software and
    flashing the microSD card.
 
 
@@ -28,9 +28,9 @@ You will need *one* of the following to establish communication to the EV3:
 
 * The USB cable that comes with the EV3
 * A Bluetooth capable computer
-* A USB Wi-Fi dongle attached to the EV3 [#]_
+* A USB Wi-Fi dongle attached to the EV3 [#wifi-dongle]_
 
-.. [#] A list of known working Wi-Fi dongles can be found on the
+.. [#wifi-dongle] A list of known working Wi-Fi dongles can be found on the
    `wiki <https://github.com/ev3dev/ev3dev/wiki/USB-Wi-Fi-Dongles>`_
 
 
