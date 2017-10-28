@@ -11,8 +11,8 @@ MINDSTORMS compatible platforms including LEGO MINDSTORMS EV3, Raspberry Pi,
 and BeagleBone.
 
 
-Supported Devices
-=================
+Supported Hardware
+==================
 
 * `LEGO MINDSTORMS EV3 <http://mindstorms.lego.com>`_
 
