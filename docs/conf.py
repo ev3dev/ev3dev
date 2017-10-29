@@ -99,8 +99,11 @@ else:
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
 # so a file named "default.css" will overwrite the builtin "default.css".
-#html_static_path = ['_static']
+html_static_path = ['_static']
 
+html_context = {
+    'css_files': ['_static/css/custom.css'],
+}
 
 # -- Options for HTMLHelp output ------------------------------------------
 
@@ -159,4 +162,25 @@ texinfo_documents = [
 ]
 
 
+# -- Hackery --
 
+from sphinx.writers.html import HTMLTranslator
+
+real_visit_literal = HTMLTranslator.visit_literal
+real_depart_literal = HTMLTranslator.depart_literal
+
+def new_visit_literal(self, node):
+    if 'kbd' in node['classes']:
+        self.body.append(self.starttag(node, 'kbd', '',
+                                       CLASS='docutils literal'))
+    else:
+        real_visit_literal(self, node)
+
+def new_depart_literal(self, node):
+    if 'kbd' in node['classes']:
+        self.body.append('</kbd>')
+    else:
+        real_depart_literal(self, node)
+
+HTMLTranslator.visit_literal = new_visit_literal
+HTMLTranslator.depart_literal = new_depart_literal
