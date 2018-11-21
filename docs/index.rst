@@ -38,13 +38,12 @@ devices as well as detailed ev3dev-specific information on each device.
 Versions
 ========
 
-**ev3dev-jessie** is the current stable version. It only receives important bug
-fixes and security updates. It is the recommended version for new users.
-
 **ev3dev-stretch** is the current development version. It is currently in beta,
 meaning that it is very usable, but we will continue to add new features and
-there may occasionally be breaking changes. It is the recommended version for
-more adventurous users.
+there may occasionally be breaking changes. It is the recommended version for new users.
+
+**ev3dev-jessie** is the current stable version. It only receives important bug
+fixes and security updates.
 
 
 Where to Start
