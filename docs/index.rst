@@ -38,12 +38,12 @@ devices as well as detailed ev3dev-specific information on each device.
 Versions
 ========
 
-**ev3dev-buster** is the current development version. It is currently in beta,
-meaning that it is very usable, but we will continue to add new features and
-there may occasionally be breaking changes. It is the recommended version for new users.
+**ev3dev-buster** is the current development version. It is currently in alpha,
+meaning that it may or may not actually be usable. Use this version if you like
+the cutting edge and making good bug reports.
 
 **ev3dev-stretch** is the current stable version. It only receives important bug
-fixes and security updates.
+fixes and security updates. **It is the recommended version for new users.**
 
 **ev3dev-jessie** is no longer supported.
 
