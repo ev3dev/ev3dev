@@ -4,8 +4,8 @@ LEGO MINDSTORMS EV3
 
 EV3 is a programmable LEGO brick produced by `LEGO <http://lego.com/>`_.
 
-.. todo:: Add paragraph about CPU and RAM. Maybe flash memory too.
-
+The EV3 has 64MB RAM and the processor is a TI Sitara AM1808 with 300 MHz.
+It has 16 MB Flash memory with a microSDHC Slot
 
 Power
 =====
